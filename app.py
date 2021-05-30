@@ -1,5 +1,5 @@
 def add(x,y):
-	return x+y #master did this
+	return (x+y) #master did this
 
 def sub(x,y):
 	pass
