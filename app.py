@@ -5,7 +5,7 @@ def sub(x,y):
 	return x-y #master sub
 
 def mul(x,y):
-	return (x*y) #bug did this
+	return (xy) #bug did this
 
 def div(x,y):
 	pass
